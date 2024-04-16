@@ -34,8 +34,4 @@ The multistatic radar system is designed to process radar data and track targets
 2. Navigate to the relevant folder (e.g., `RangeDoppler`, `bistatic_tracker`, or `cartesian_tracker`).
 3. Follow the instructions provided in the respective script files to process data and track targets.
 
-Feel free to explore and adapt the code to suit your specific radar application!
-
----
-
-Remember to customize the content with any additional details specific to your project. Good luck with your multistatic radar development! 🛰️📡🎯
+Feel free to explore and adapt the code to suit your specific radar application! 🛰️📡🎯
